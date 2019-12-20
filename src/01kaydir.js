@@ -26,7 +26,7 @@ function setup() {    //katmanları olustur
   rasgeleboya()
 
   // frameRate(2)
-  setInterval(()=> console.log(renktablosu), 3000)
+  // setInterval(()=> console.log(renktablosu), 3000)
 }
 
 function draw() {     // ESAS DONGU
