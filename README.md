@@ -16,9 +16,9 @@ Renkleri temizleyin. Girdi kısmına "hayvan kedi köpek" yazın. hayvan-kedi i�
 
 ## Kullanıcı Etkileşimi
 
-1- Fare Sol Tık:    Katmanı uyanık duruma geçirir.
-2- Fare Tekerlek:   Katmanı sağa sola hareket ettirir.
-3- Fare Orta Tık:   Karenin rengini değiştirir.
+1. Fare Sol Tık:    Katmanı uyanık duruma geçirir.
+2. Fare Tekerlek:   Katmanı sağa sola hareket ettirir.
+3. Fare Orta Tık:   Karenin rengini değiştirir.
 
 ## Geliştirici Notları
 
@@ -33,13 +33,13 @@ Renkleri temizleyin. Girdi kısmına "hayvan kedi köpek" yazın. hayvan-kedi i�
 #### İLERİSİ İÇİN :
 
 Kodun Evrimsel Gelişimi şu şekilde olabilir :
-1- Öncelikle belli bir cüzzi iradeye sahip nöronlar genel mutluluğu gözlemleyerek ufak değişiklikler yaparak mutluluğu nasıl değiştirdiklerine bakabilirler. A takımından B takımına geçen bir nöron A'daki ve B'deki mutluluğun yükseldiğini gördüğünde iki Takım için de iyi birşey yaptığına anlamış olur misal. 
+1. Öncelikle belli bir cüzzi iradeye sahip nöronlar genel mutluluğu gözlemleyerek ufak değişiklikler yaparak mutluluğu nasıl değiştirdiklerine bakabilirler. A takımından B takımına geçen bir nöron A'daki ve B'deki mutluluğun yükseldiğini gördüğünde iki Takım için de iyi birşey yaptığına anlamış olur misal. 
 
 Bu metodta önemli nokta çakışan hareketler yapmamak. Gerçek zamanlı olmadığı gibi bir de saat sinyaline bağlı nöronlarda flip flop gibi birbiriyle yarışan durumlar görülebilir. Yine cevaplanması gereken bir soru nöron B takımına geçtiğinde sadece B'nin kaptanının mutluluğuna mı bakacak yoksa herkesin genel mutluluğunu mu averajlamaya çalışacak mı?
 
-2- İkinci evrimsel aşama, tek bir nöronun SEÇİM yasalarını yazmak olabilir. Hepsinin aynı anda sağa sola zıpladığı modelde iyileştirme yapmaya çalışmak yerine bu kez bir tanesi iyileştirilip onun özelliklerini diğerlerine kopyalamış olurum. Ondan sonra da sürekli-güncellenim (continuous integration) problemleri ele alınır.
+2. İkinci evrimsel aşama, tek bir nöronun SEÇİM yasalarını yazmak olabilir. Hepsinin aynı anda sağa sola zıpladığı modelde iyileştirme yapmaya çalışmak yerine bu kez bir tanesi iyileştirilip onun özelliklerini diğerlerine kopyalamış olurum. Ondan sonra da sürekli-güncellenim (continuous integration) problemleri ele alınır.
 
-3- Neticeyi akıldan çıkarmamak gerekiyor. Bu yazılım zeki insanları birbirine bağlamak için bilgisayar oyunlarına bir alternatif olacak. "Öyle şey olur mu?" => "Olmadı mı, sosyal medyada vakit geçiren gençlerin sayısı bilgisayar oynayanları bilgisayar programlayanları sollamadı mı? Bal gibi olur. İnsanlar birbirlerini tanımak istiyor ama bunu minimum problem ve kayıp yaşayarak maksimum uygunlukla sağlamak istiyorlar. Doğru insanların doğru fikirlerde duygularda buluşması da bir tür Birleşik Zeka zaten. Benim yapacağım buna elverişli bir arayüz ve arka harezmiler tasarlamak.
+3. Neticeyi akıldan çıkarmamak gerekiyor. Bu yazılım zeki insanları birbirine bağlamak için bilgisayar oyunlarına bir alternatif olacak. "Öyle şey olur mu?" => "Olmadı mı, sosyal medyada vakit geçiren gençlerin sayısı bilgisayar oynayanları bilgisayar programlayanları sollamadı mı? Bal gibi olur. İnsanlar birbirlerini tanımak istiyor ama bunu minimum problem ve kayıp yaşayarak maksimum uygunlukla sağlamak istiyorlar. Doğru insanların doğru fikirlerde duygularda buluşması da bir tür Birleşik Zeka zaten. Benim yapacağım buna elverişli bir arayüz ve arka harezmiler tasarlamak.
 
 
 
@@ -59,6 +59,6 @@ Clear the squares by the "Temizle" button. Enter text "animal cat dog". For anim
 
 ## User IO
 
-1- Mouse Left Click:    Agitate any layer
-2- Mouse wheel:         Shift the layer to left right
-3- Mouse Middle Click:  Changes the color of square
+1. Mouse Left Click:    Agitate any layer
+2. Mouse wheel:         Shift the layer to left right
+3. Mouse Middle Click:  Changes the color of square
